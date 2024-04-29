@@ -1,0 +1,3 @@
+[{"link":"vse-klienty.ru","phone":"89609398702"},{"link":"vse-klienty.ru","phone":"89095001418"},{"link":"vse-klienty.ru","phone":"89095001418"}
+
+]
